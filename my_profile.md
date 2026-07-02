@@ -4,7 +4,7 @@ Tentang Saya
 
 Halo!
 
-Saya adalah seorang pelajar yang memiliki ketertarikan pada pengembangan web dan Kecerdasan Buatan (Artificial Intelligence). Saya senang mempelajari teknologi baru, terutama bagaimana sebuah sistem dibangun dari dasar hingga dapat menghasilkan solusi yang bermanfaat.
+Nama saya adalah Cut Putroe Ainal dan sekarang saya merupakan seorang pelajar yang memiliki ketertarikan pada pengembangan web dan Kecerdasan Buatan (Artificial Intelligence). Saya senang mempelajari teknologi baru, terutama bagaimana sebuah sistem dibangun dari dasar hingga dapat menghasilkan solusi yang bermanfaat.
 
 Saat ini saya sedang fokus mempelajari Laravel, PHP, MySQL, dan GitHub untuk memperkuat kemampuan saya dalam pengembangan aplikasi berbasis web.
 
